@@ -1,5 +1,5 @@
 import React, { useEffect, useState } from "react";
-
+// initial commit
 import { Route, Switch, Redirect } from "react-router-dom";
 import MovieList from './components/MovieList';
 import Movie from './components/Movie';
